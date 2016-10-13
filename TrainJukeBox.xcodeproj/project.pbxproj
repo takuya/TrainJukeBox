@@ -1,0 +1,490 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B025156B1DAE2F9000846A81 /* 大阪市営地下鉄 接近チャイム.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515681DAE2F9000846A81 /* 大阪市営地下鉄 接近チャイム.m4r */; };
+		B025156C1DAE2F9000846A81 /* 大阪市営地下鉄-下り接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515691DAE2F9000846A81 /* 大阪市営地下鉄-下り接近.m4r */; };
+		B025156D1DAE2F9000846A81 /* 大阪市営地下鉄-上り-接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025156A1DAE2F9000846A81 /* 大阪市営地下鉄-上り-接近.m4r */; };
+		B025156F1DAE2FAC00846A81 /* ～蛍の光～閉店の時間.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025156E1DAE2FAC00846A81 /* ～蛍の光～閉店の時間.m4r */; };
+		B02515741DAE2FC900846A81 /* ゼルダ-謎解き.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515701DAE2FC900846A81 /* ゼルダ-謎解き.m4r */; };
+		B02515751DAE2FC900846A81 /* ゼルダ：ごまだれ.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515711DAE2FC900846A81 /* ゼルダ：ごまだれ.m4r */; };
+		B02515761DAE2FC900846A81 /* ゼルダ：ごまだれー溜めあり.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515721DAE2FC900846A81 /* ゼルダ：ごまだれー溜めあり.m4r */; };
+		B02515771DAE2FC900846A81 /* ちーん.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515731DAE2FC900846A81 /* ちーん.m4r */; };
+		B02515791DAE2FF500846A81 /* デデーン！あうと.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515781DAE2FF500846A81 /* デデーン！あうと.m4r */; };
+		B02515821DAE300F00846A81 /* ドラえもん-タイトル効果音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025157A1DAE300F00846A81 /* ドラえもん-タイトル効果音.m4r */; };
+		B02515831DAE300F00846A81 /* ドラえもん-秘密道具-効果音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025157B1DAE300F00846A81 /* ドラえもん-秘密道具-効果音.m4r */; };
+		B02515841DAE300F00846A81 /* ドラえもん-スネ夫が自慢話BGM.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025157C1DAE300F00846A81 /* ドラえもん-スネ夫が自慢話BGM.m4r */; };
+		B02515851DAE300F00846A81 /* ドラクエ-レベルアップ-効果音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025157D1DAE300F00846A81 /* ドラクエ-レベルアップ-効果音.m4r */; };
+		B02515861DAE300F00846A81 /* ファミマ入店音-効果音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025157E1DAE300F00846A81 /* ファミマ入店音-効果音.m4r */; };
+		B02515871DAE300F00846A81 /* ドラクエ-ぼうけんのしょはきえてしまいました.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025157F1DAE300F00846A81 /* ドラクエ-ぼうけんのしょはきえてしまいました.m4r */; };
+		B02515881DAE300F00846A81 /* マクド-フライヤー.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515801DAE300F00846A81 /* マクド-フライヤー.m4r */; };
+		B02515891DAE300F00846A81 /* マリオ1up 効果音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515811DAE300F00846A81 /* マリオ1up 効果音.m4r */; };
+		B025158C1DAE301A00846A81 /* 京浜東北：接近音１.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025158A1DAE301A00846A81 /* 京浜東北：接近音１.m4r */; };
+		B025158D1DAE301A00846A81 /* 京浜東北：接近音２.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025158B1DAE301A00846A81 /* 京浜東北：接近音２.m4r */; };
+		B025159D1DAE302D00846A81 /* あーん♡.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025158E1DAE302D00846A81 /* あーん♡.m4r */; };
+		B025159E1DAE302D00846A81 /* 水洗トイレ.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025158F1DAE302D00846A81 /* 水洗トイレ.m4r */; };
+		B025159F1DAE302D00846A81 /* 目覚まし時計.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515901DAE302D00846A81 /* 目覚まし時計.m4r */; };
+		B02515A01DAE302D00846A81 /* 阪急-電車通過案内.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515911DAE302D00846A81 /* 阪急-電車通過案内.m4r */; };
+		B02515A11DAE302D00846A81 /* 阪急-電車接近案内.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515921DAE302D00846A81 /* 阪急-電車接近案内.m4r */; };
+		B02515A21DAE302D00846A81 /* 阪急-梅田京都線発車.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515931DAE302D00846A81 /* 阪急-梅田京都線発車.m4r */; };
+		B02515A31DAE302D00846A81 /* 阪急-梅田神戸線発車.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515941DAE302D00846A81 /* 阪急-梅田神戸線発車.m4r */; };
+		B02515A41DAE302D00846A81 /* 阪急-梅田宝塚線発車.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515951DAE302D00846A81 /* 阪急-梅田宝塚線発車.m4r */; };
+		B02515A51DAE302D00846A81 /* 阪急-電車接近-予告2.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515961DAE302D00846A81 /* 阪急-電車接近-予告2.m4r */; };
+		B02515A61DAE302D00846A81 /* 阪神-旧バージョン-接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515971DAE302D00846A81 /* 阪神-旧バージョン-接近.m4r */; };
+		B02515A71DAE302D00846A81 /* 阪神-旧バージョン-通過.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515981DAE302D00846A81 /* 阪神-旧バージョン-通過.m4r */; };
+		B02515A81DAE302D00846A81 /* 阪神-旧バージョン-発車1.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02515991DAE302D00846A81 /* 阪神-旧バージョン-発車1.m4r */; };
+		B02515A91DAE302D00846A81 /* 阪神-旧バージョン-発車2.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025159A1DAE302D00846A81 /* 阪神-旧バージョン-発車2.m4r */; };
+		B02515AA1DAE302D00846A81 /* 山手線：接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025159B1DAE302D00846A81 /* 山手線：接近.m4r */; };
+		B02515AB1DAE302D00846A81 /* 山陽電鉄-接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B025159C1DAE302D00846A81 /* 山陽電鉄-接近.m4r */; };
+		B02609D21DAE272B00E88F81 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B02609D11DAE272B00E88F81 /* AppDelegate.m */; };
+		B02609D51DAE272B00E88F81 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B02609D41DAE272B00E88F81 /* main.m */; };
+		B02609D71DAE272B00E88F81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B02609D61DAE272B00E88F81 /* Assets.xcassets */; };
+		B02609DA1DAE272B00E88F81 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = B02609D81DAE272B00E88F81 /* MainMenu.xib */; };
+		B02609E31DAE273600E88F81 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B02609E21DAE273600E88F81 /* AVFoundation.framework */; };
+		B02609EA1DAE278A00E88F81 /* JR西kyoto接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02609E41DAE278A00E88F81 /* JR西kyoto接近.m4r */; };
+		B02609EB1DAE278A00E88F81 /* JR西kyoto予告音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02609E51DAE278A00E88F81 /* JR西kyoto予告音.m4r */; };
+		B02609EC1DAE278A00E88F81 /* JR西環状接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02609E61DAE278A00E88F81 /* JR西環状接近.m4r */; };
+		B02609ED1DAE278A00E88F81 /* JR西環状線予告音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02609E71DAE278A00E88F81 /* JR西環状線予告音.m4r */; };
+		B02609EE1DAE278A00E88F81 /* JR西神戸線接近.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02609E81DAE278A00E88F81 /* JR西神戸線接近.m4r */; };
+		B02609EF1DAE278A00E88F81 /* JR西神戸線予告音.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02609E91DAE278A00E88F81 /* JR西神戸線予告音.m4r */; };
+		B0F624101DAE2DA70009C71E /* fumikiri.m4r in Resources */ = {isa = PBXBuildFile; fileRef = B02609F11DAE28D900E88F81 /* fumikiri.m4r */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B02515681DAE2F9000846A81 /* 大阪市営地下鉄 接近チャイム.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "大阪市営地下鉄 接近チャイム.m4r"; sourceTree = "<group>"; };
+		B02515691DAE2F9000846A81 /* 大阪市営地下鉄-下り接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "大阪市営地下鉄-下り接近.m4r"; sourceTree = "<group>"; };
+		B025156A1DAE2F9000846A81 /* 大阪市営地下鉄-上り-接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "大阪市営地下鉄-上り-接近.m4r"; sourceTree = "<group>"; };
+		B025156E1DAE2FAC00846A81 /* ～蛍の光～閉店の時間.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "～蛍の光～閉店の時間.m4r"; sourceTree = "<group>"; };
+		B02515701DAE2FC900846A81 /* ゼルダ-謎解き.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ゼルダ-謎解き.m4r"; sourceTree = "<group>"; };
+		B02515711DAE2FC900846A81 /* ゼルダ：ごまだれ.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ゼルダ：ごまだれ.m4r"; sourceTree = "<group>"; };
+		B02515721DAE2FC900846A81 /* ゼルダ：ごまだれー溜めあり.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ゼルダ：ごまだれー溜めあり.m4r"; sourceTree = "<group>"; };
+		B02515731DAE2FC900846A81 /* ちーん.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ちーん.m4r"; sourceTree = "<group>"; };
+		B02515781DAE2FF500846A81 /* デデーン！あうと.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "デデーン！あうと.m4r"; sourceTree = "<group>"; };
+		B025157A1DAE300F00846A81 /* ドラえもん-タイトル効果音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ドラえもん-タイトル効果音.m4r"; sourceTree = "<group>"; };
+		B025157B1DAE300F00846A81 /* ドラえもん-秘密道具-効果音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ドラえもん-秘密道具-効果音.m4r"; sourceTree = "<group>"; };
+		B025157C1DAE300F00846A81 /* ドラえもん-スネ夫が自慢話BGM.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ドラえもん-スネ夫が自慢話BGM.m4r"; sourceTree = "<group>"; };
+		B025157D1DAE300F00846A81 /* ドラクエ-レベルアップ-効果音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ドラクエ-レベルアップ-効果音.m4r"; sourceTree = "<group>"; };
+		B025157E1DAE300F00846A81 /* ファミマ入店音-効果音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ファミマ入店音-効果音.m4r"; sourceTree = "<group>"; };
+		B025157F1DAE300F00846A81 /* ドラクエ-ぼうけんのしょはきえてしまいました.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ドラクエ-ぼうけんのしょはきえてしまいました.m4r"; sourceTree = "<group>"; };
+		B02515801DAE300F00846A81 /* マクド-フライヤー.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "マクド-フライヤー.m4r"; sourceTree = "<group>"; };
+		B02515811DAE300F00846A81 /* マリオ1up 効果音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "マリオ1up 効果音.m4r"; sourceTree = "<group>"; };
+		B025158A1DAE301A00846A81 /* 京浜東北：接近音１.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "京浜東北：接近音１.m4r"; sourceTree = "<group>"; };
+		B025158B1DAE301A00846A81 /* 京浜東北：接近音２.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "京浜東北：接近音２.m4r"; sourceTree = "<group>"; };
+		B025158E1DAE302D00846A81 /* あーん♡.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "あーん♡.m4r"; sourceTree = "<group>"; };
+		B025158F1DAE302D00846A81 /* 水洗トイレ.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "水洗トイレ.m4r"; sourceTree = "<group>"; };
+		B02515901DAE302D00846A81 /* 目覚まし時計.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "目覚まし時計.m4r"; sourceTree = "<group>"; };
+		B02515911DAE302D00846A81 /* 阪急-電車通過案内.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪急-電車通過案内.m4r"; sourceTree = "<group>"; };
+		B02515921DAE302D00846A81 /* 阪急-電車接近案内.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪急-電車接近案内.m4r"; sourceTree = "<group>"; };
+		B02515931DAE302D00846A81 /* 阪急-梅田京都線発車.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪急-梅田京都線発車.m4r"; sourceTree = "<group>"; };
+		B02515941DAE302D00846A81 /* 阪急-梅田神戸線発車.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪急-梅田神戸線発車.m4r"; sourceTree = "<group>"; };
+		B02515951DAE302D00846A81 /* 阪急-梅田宝塚線発車.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪急-梅田宝塚線発車.m4r"; sourceTree = "<group>"; };
+		B02515961DAE302D00846A81 /* 阪急-電車接近-予告2.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪急-電車接近-予告2.m4r"; sourceTree = "<group>"; };
+		B02515971DAE302D00846A81 /* 阪神-旧バージョン-接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪神-旧バージョン-接近.m4r"; sourceTree = "<group>"; };
+		B02515981DAE302D00846A81 /* 阪神-旧バージョン-通過.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪神-旧バージョン-通過.m4r"; sourceTree = "<group>"; };
+		B02515991DAE302D00846A81 /* 阪神-旧バージョン-発車1.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪神-旧バージョン-発車1.m4r"; sourceTree = "<group>"; };
+		B025159A1DAE302D00846A81 /* 阪神-旧バージョン-発車2.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "阪神-旧バージョン-発車2.m4r"; sourceTree = "<group>"; };
+		B025159B1DAE302D00846A81 /* 山手線：接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "山手線：接近.m4r"; sourceTree = "<group>"; };
+		B025159C1DAE302D00846A81 /* 山陽電鉄-接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "山陽電鉄-接近.m4r"; sourceTree = "<group>"; };
+		B02609CD1DAE272B00E88F81 /* TrainJukeBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrainJukeBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B02609D01DAE272B00E88F81 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B02609D11DAE272B00E88F81 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B02609D41DAE272B00E88F81 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B02609D61DAE272B00E88F81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B02609D91DAE272B00E88F81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		B02609DB1DAE272B00E88F81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B02609E21DAE273600E88F81 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		B02609E41DAE278A00E88F81 /* JR西kyoto接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR西kyoto接近.m4r"; sourceTree = "<group>"; };
+		B02609E51DAE278A00E88F81 /* JR西kyoto予告音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR西kyoto予告音.m4r"; sourceTree = "<group>"; };
+		B02609E61DAE278A00E88F81 /* JR西環状接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR西環状接近.m4r"; sourceTree = "<group>"; };
+		B02609E71DAE278A00E88F81 /* JR西環状線予告音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR西環状線予告音.m4r"; sourceTree = "<group>"; };
+		B02609E81DAE278A00E88F81 /* JR西神戸線接近.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR西神戸線接近.m4r"; sourceTree = "<group>"; };
+		B02609E91DAE278A00E88F81 /* JR西神戸線予告音.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JR西神戸線予告音.m4r"; sourceTree = "<group>"; };
+		B02609F11DAE28D900E88F81 /* fumikiri.m4r */ = {isa = PBXFileReference; lastKnownFileType = file; path = fumikiri.m4r; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B02609CA1DAE272B00E88F81 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B02609E31DAE273600E88F81 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B02609C41DAE272B00E88F81 = {
+			isa = PBXGroup;
+			children = (
+				B02609F01DAE279E00E88F81 /* music */,
+				B02609CF1DAE272B00E88F81 /* TrainJukeBox */,
+				B02609CE1DAE272B00E88F81 /* Products */,
+				B02609E11DAE273500E88F81 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		B02609CE1DAE272B00E88F81 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B02609CD1DAE272B00E88F81 /* TrainJukeBox.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B02609CF1DAE272B00E88F81 /* TrainJukeBox */ = {
+			isa = PBXGroup;
+			children = (
+				B02609D01DAE272B00E88F81 /* AppDelegate.h */,
+				B02609D11DAE272B00E88F81 /* AppDelegate.m */,
+				B02609D61DAE272B00E88F81 /* Assets.xcassets */,
+				B02609D81DAE272B00E88F81 /* MainMenu.xib */,
+				B02609DB1DAE272B00E88F81 /* Info.plist */,
+				B02609D31DAE272B00E88F81 /* Supporting Files */,
+			);
+			path = TrainJukeBox;
+			sourceTree = "<group>";
+		};
+		B02609D31DAE272B00E88F81 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B02609D41DAE272B00E88F81 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B02609E11DAE273500E88F81 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B02609E21DAE273600E88F81 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B02609F01DAE279E00E88F81 /* music */ = {
+			isa = PBXGroup;
+			children = (
+				B02609F11DAE28D900E88F81 /* fumikiri.m4r */,
+				B02609E41DAE278A00E88F81 /* JR西kyoto接近.m4r */,
+				B02609E51DAE278A00E88F81 /* JR西kyoto予告音.m4r */,
+				B025156E1DAE2FAC00846A81 /* ～蛍の光～閉店の時間.m4r */,
+				B02609E61DAE278A00E88F81 /* JR西環状接近.m4r */,
+				B02609E71DAE278A00E88F81 /* JR西環状線予告音.m4r */,
+				B02609E81DAE278A00E88F81 /* JR西神戸線接近.m4r */,
+				B02609E91DAE278A00E88F81 /* JR西神戸線予告音.m4r */,
+				B025157A1DAE300F00846A81 /* ドラえもん-タイトル効果音.m4r */,
+				B025157B1DAE300F00846A81 /* ドラえもん-秘密道具-効果音.m4r */,
+				B025157C1DAE300F00846A81 /* ドラえもん-スネ夫が自慢話BGM.m4r */,
+				B025157D1DAE300F00846A81 /* ドラクエ-レベルアップ-効果音.m4r */,
+				B025157E1DAE300F00846A81 /* ファミマ入店音-効果音.m4r */,
+				B025157F1DAE300F00846A81 /* ドラクエ-ぼうけんのしょはきえてしまいました.m4r */,
+				B02515801DAE300F00846A81 /* マクド-フライヤー.m4r */,
+				B02515811DAE300F00846A81 /* マリオ1up 効果音.m4r */,
+				B02515681DAE2F9000846A81 /* 大阪市営地下鉄 接近チャイム.m4r */,
+				B025158A1DAE301A00846A81 /* 京浜東北：接近音１.m4r */,
+				B025158B1DAE301A00846A81 /* 京浜東北：接近音２.m4r */,
+				B025158E1DAE302D00846A81 /* あーん♡.m4r */,
+				B025158F1DAE302D00846A81 /* 水洗トイレ.m4r */,
+				B02515901DAE302D00846A81 /* 目覚まし時計.m4r */,
+				B02515911DAE302D00846A81 /* 阪急-電車通過案内.m4r */,
+				B02515921DAE302D00846A81 /* 阪急-電車接近案内.m4r */,
+				B02515931DAE302D00846A81 /* 阪急-梅田京都線発車.m4r */,
+				B02515941DAE302D00846A81 /* 阪急-梅田神戸線発車.m4r */,
+				B02515951DAE302D00846A81 /* 阪急-梅田宝塚線発車.m4r */,
+				B02515961DAE302D00846A81 /* 阪急-電車接近-予告2.m4r */,
+				B02515971DAE302D00846A81 /* 阪神-旧バージョン-接近.m4r */,
+				B02515981DAE302D00846A81 /* 阪神-旧バージョン-通過.m4r */,
+				B02515991DAE302D00846A81 /* 阪神-旧バージョン-発車1.m4r */,
+				B025159A1DAE302D00846A81 /* 阪神-旧バージョン-発車2.m4r */,
+				B025159B1DAE302D00846A81 /* 山手線：接近.m4r */,
+				B025159C1DAE302D00846A81 /* 山陽電鉄-接近.m4r */,
+				B02515691DAE2F9000846A81 /* 大阪市営地下鉄-下り接近.m4r */,
+				B025156A1DAE2F9000846A81 /* 大阪市営地下鉄-上り-接近.m4r */,
+				B02515701DAE2FC900846A81 /* ゼルダ-謎解き.m4r */,
+				B02515781DAE2FF500846A81 /* デデーン！あうと.m4r */,
+				B02515711DAE2FC900846A81 /* ゼルダ：ごまだれ.m4r */,
+				B02515721DAE2FC900846A81 /* ゼルダ：ごまだれー溜めあり.m4r */,
+				B02515731DAE2FC900846A81 /* ちーん.m4r */,
+			);
+			name = music;
+			path = TrainJukeBox;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B02609CC1DAE272B00E88F81 /* TrainJukeBox */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B02609DE1DAE272B00E88F81 /* Build configuration list for PBXNativeTarget "TrainJukeBox" */;
+			buildPhases = (
+				B02609C91DAE272B00E88F81 /* Sources */,
+				B02609CA1DAE272B00E88F81 /* Frameworks */,
+				B02609CB1DAE272B00E88F81 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TrainJukeBox;
+			productName = TrainJukeBox;
+			productReference = B02609CD1DAE272B00E88F81 /* TrainJukeBox.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B02609C51DAE272B00E88F81 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = takuya;
+				TargetAttributes = {
+					B02609CC1DAE272B00E88F81 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 2C56Z33653;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = B02609C81DAE272B00E88F81 /* Build configuration list for PBXProject "TrainJukeBox" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B02609C41DAE272B00E88F81;
+			productRefGroup = B02609CE1DAE272B00E88F81 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B02609CC1DAE272B00E88F81 /* TrainJukeBox */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B02609CB1DAE272B00E88F81 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B02515AB1DAE302D00846A81 /* 山陽電鉄-接近.m4r in Resources */,
+				B02515A81DAE302D00846A81 /* 阪神-旧バージョン-発車1.m4r in Resources */,
+				B0F624101DAE2DA70009C71E /* fumikiri.m4r in Resources */,
+				B025159E1DAE302D00846A81 /* 水洗トイレ.m4r in Resources */,
+				B025159D1DAE302D00846A81 /* あーん♡.m4r in Resources */,
+				B02609EE1DAE278A00E88F81 /* JR西神戸線接近.m4r in Resources */,
+				B02609EC1DAE278A00E88F81 /* JR西環状接近.m4r in Resources */,
+				B02515841DAE300F00846A81 /* ドラえもん-スネ夫が自慢話BGM.m4r in Resources */,
+				B02515871DAE300F00846A81 /* ドラクエ-ぼうけんのしょはきえてしまいました.m4r in Resources */,
+				B02515821DAE300F00846A81 /* ドラえもん-タイトル効果音.m4r in Resources */,
+				B02515A61DAE302D00846A81 /* 阪神-旧バージョン-接近.m4r in Resources */,
+				B02609D71DAE272B00E88F81 /* Assets.xcassets in Resources */,
+				B02515861DAE300F00846A81 /* ファミマ入店音-効果音.m4r in Resources */,
+				B025156D1DAE2F9000846A81 /* 大阪市営地下鉄-上り-接近.m4r in Resources */,
+				B02515A41DAE302D00846A81 /* 阪急-梅田宝塚線発車.m4r in Resources */,
+				B02515A91DAE302D00846A81 /* 阪神-旧バージョン-発車2.m4r in Resources */,
+				B02609DA1DAE272B00E88F81 /* MainMenu.xib in Resources */,
+				B025156B1DAE2F9000846A81 /* 大阪市営地下鉄 接近チャイム.m4r in Resources */,
+				B02515AA1DAE302D00846A81 /* 山手線：接近.m4r in Resources */,
+				B02515881DAE300F00846A81 /* マクド-フライヤー.m4r in Resources */,
+				B02609EB1DAE278A00E88F81 /* JR西kyoto予告音.m4r in Resources */,
+				B02515891DAE300F00846A81 /* マリオ1up 効果音.m4r in Resources */,
+				B02515741DAE2FC900846A81 /* ゼルダ-謎解き.m4r in Resources */,
+				B02609ED1DAE278A00E88F81 /* JR西環状線予告音.m4r in Resources */,
+				B02515A11DAE302D00846A81 /* 阪急-電車接近案内.m4r in Resources */,
+				B02515771DAE2FC900846A81 /* ちーん.m4r in Resources */,
+				B02515A01DAE302D00846A81 /* 阪急-電車通過案内.m4r in Resources */,
+				B02515761DAE2FC900846A81 /* ゼルダ：ごまだれー溜めあり.m4r in Resources */,
+				B025159F1DAE302D00846A81 /* 目覚まし時計.m4r in Resources */,
+				B02515A31DAE302D00846A81 /* 阪急-梅田神戸線発車.m4r in Resources */,
+				B025158C1DAE301A00846A81 /* 京浜東北：接近音１.m4r in Resources */,
+				B02609EF1DAE278A00E88F81 /* JR西神戸線予告音.m4r in Resources */,
+				B02515A21DAE302D00846A81 /* 阪急-梅田京都線発車.m4r in Resources */,
+				B02609EA1DAE278A00E88F81 /* JR西kyoto接近.m4r in Resources */,
+				B02515A71DAE302D00846A81 /* 阪神-旧バージョン-通過.m4r in Resources */,
+				B025158D1DAE301A00846A81 /* 京浜東北：接近音２.m4r in Resources */,
+				B02515A51DAE302D00846A81 /* 阪急-電車接近-予告2.m4r in Resources */,
+				B02515791DAE2FF500846A81 /* デデーン！あうと.m4r in Resources */,
+				B02515831DAE300F00846A81 /* ドラえもん-秘密道具-効果音.m4r in Resources */,
+				B025156C1DAE2F9000846A81 /* 大阪市営地下鉄-下り接近.m4r in Resources */,
+				B025156F1DAE2FAC00846A81 /* ～蛍の光～閉店の時間.m4r in Resources */,
+				B02515851DAE300F00846A81 /* ドラクエ-レベルアップ-効果音.m4r in Resources */,
+				B02515751DAE2FC900846A81 /* ゼルダ：ごまだれ.m4r in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B02609C91DAE272B00E88F81 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B02609D51DAE272B00E88F81 /* main.m in Sources */,
+				B02609D21DAE272B00E88F81 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B02609D81DAE272B00E88F81 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B02609D91DAE272B00E88F81 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B02609DC1DAE272B00E88F81 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		B02609DD1DAE272B00E88F81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		B02609DF1DAE272B00E88F81 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 2C56Z33653;
+				INFOPLIST_FILE = TrainJukeBox/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.takuya.TrainJukeBox;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B02609E01DAE272B00E88F81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 2C56Z33653;
+				INFOPLIST_FILE = TrainJukeBox/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = biz.takuya.TrainJukeBox;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B02609C81DAE272B00E88F81 /* Build configuration list for PBXProject "TrainJukeBox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B02609DC1DAE272B00E88F81 /* Debug */,
+				B02609DD1DAE272B00E88F81 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B02609DE1DAE272B00E88F81 /* Build configuration list for PBXNativeTarget "TrainJukeBox" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B02609DF1DAE272B00E88F81 /* Debug */,
+				B02609E01DAE272B00E88F81 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B02609C51DAE272B00E88F81 /* Project object */;
+}
